@@ -1,0 +1,63 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Verdana, Arial, sans-serif;
+    font-size: 100%;
+    line-height: 1.4;
+    color: black;
+    margin: 0;
+}
+
+
+
+header {
+    border-bottom: 10px solid black;
+    border-top: 10px solid black;
+    margin: 0;
+    padding: 0 15px;
+    background-color: #299952;
+}
+
+h1{
+    
+    color: black;
+    border-bottom: 0px;
+    margin: 1 px, color:black;
+    padding: 0 0px;
+    background-color: transparent;
+    
+}
+
+main {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 20px;
+    width: 60%;
+    margin: 0 auto;
+}
+main h1 {
+    margin: 0;
+    
+}
+
+a:hover {
+    color: white;
+    background-color: darkslateblue;
+    text-decoration: underline;
+}
+footer{
+    
+    background-color: aquamarine;
+    text-align: center;
+    
+}
+
+ul1{
+    border-bottom: 15px solid black;
+    border-top: 15px solid black;
+    
+}
+
+.nav_horizontal{
+    display: flex;
+    justify-content:flex-end;
+    
+}
